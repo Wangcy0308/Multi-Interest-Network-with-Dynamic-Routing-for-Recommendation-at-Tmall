@@ -1,4 +1,4 @@
-![1716813815814](https://github.com/Wangcy0308/Multi-Interest-Network-with-Dynamic-Routing-for-Recommendation-at-Tmall/assets/91234199/725ce265-9d6f-48a0-9306-a5f243c63188)![1716813815814](https://github.com/Wangcy0308/Multi-Interest-Network-with-Dynamic-Routing-for-Recommendation-at-Tmall/assets/91234199/725ce265-9d6f-48a0-9306-a5f243c63188) # 现有方法的局限性
+ # 现有方法的局限性
 
 ## 基于协同过滤的方法
 - 通过历史交互商品或隐藏因子表示用户兴趣，但存在稀疏性问题或计算复杂度高的问题。
@@ -27,4 +27,4 @@
 普通神经网络通过反向传播直接更新所有连接权重。
 
 ### 具体介绍
-
+![第一部分](https://github.com/Wangcy0308/Multi-Interest-Network-with-Dynamic-Routing-for-Recommendation-at-Tmall/assets/91234199/725ce265-9d6f-48a0-9306-a5f243c63188)
